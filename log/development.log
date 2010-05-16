@@ -39505,3 +39505,3770 @@ ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:
   lib/internet_explorer_detector.rb:12:in `call'
 
 Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing LoginController#show (for 172.16.142.1 at 2010-05-15 20:31:23) [GET]
+Rendering template within layouts/application
+Rendering login/show
+Rendered shared/_nav (15.0ms)
+Rendered elements/_login (0.9ms)
+Rendered shared/_header (2.0ms)
+Rendered shared/_footer (0.4ms)
+Completed in 64ms (View: 61, DB: 1) | 200 OK [http://blacklabel.dragonslayer.com/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:31:23) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:31:23) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:32:05) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.4ms)
+Rendered elements/_thumbnail_count (0.6ms)
+Rendered elements/_galery_header (4.8ms)
+Rendered elements/_thumbnail (0.3ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 77ms (View: 74, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:32:05) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:32:05) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:36:27) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.5ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:36:27) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:36:27) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:36:42) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.4ms)
+Rendered shared/_header (0.5ms)
+Rendered shared/_footer (0.1ms)
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:36:42) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:38:13) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.5ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:38:13) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:38:13) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:38:57) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:38:57) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:38:57) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:39:46) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:39:46) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:39:46) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:39:56) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:39:56) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:39:56) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:41:17) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:41:17) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (1.8ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:41:17) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:41:46) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:41:46) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:41:46) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:42:32) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:42:32) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:42:32) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:42:47) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:42:48) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:42:48) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:45:53) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 51ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:45:53) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:45:53) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:46:02) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:46:02) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:46:02) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:46:14) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.5ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:46:14) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:46:14) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:46:28) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.5ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (56.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:46:29) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:46:29) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:46:43) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:46:43) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:46:43) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.6ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:46:58) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 9ms (View: 6, DB: 1) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:46:59) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:46:59) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:48:11) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.5ms)
+Rendered shared/_header (0.5ms)
+Rendered shared/_footer (0.1ms)
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:48:12) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:48:12) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:52:18) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.6ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:52:19) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:52:19) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:52:37) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:52:37) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:52:47) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:52:47) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:52:48) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:52:54) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.5ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:52:54) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:52:54) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:53:06) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.5ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:53:06) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:53:06) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:53:13) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:53:13) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:53:13) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:53:30) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:53:30) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:53:30) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:53:35) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:53:36) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:53:36) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:53:49) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.2ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (2.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (1.7ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:53:49) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:53:49) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:54:13) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:54:13) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:54:13) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:54:18) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (1.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:54:18) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:54:18) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:54:48) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.6ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:54:48) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:54:48) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:55:03) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:55:03) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:55:03) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:55:13) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.7ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:55:13) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:55:14) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:55:20) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:55:20) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:55:20) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:55:32) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:55:32) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:55:32) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:56:09) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.6ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:56:09) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:56:09) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:56:27) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:56:27) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:56:27) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:56:33) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.3ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.5ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:56:34) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:56:34) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:56:39) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:56:39) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:56:39) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:56:58) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.6ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:56:58) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:56:58) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:57:13) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.2ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.5ms)
+Rendered elements/_thumbnail (0.6ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:57:13) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:57:13) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:57:25) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.6ms)
+Rendered shared/_header (0.7ms)
+Rendered shared/_footer (0.1ms)
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:57:25) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:57:25) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:57:44) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:57:44) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:57:44) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:57:52) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.5ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:57:52) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:57:52) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:58:20) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (1.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:58:20) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:58:20) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:58:51) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:58:51) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:58:51) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:59:16) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:59:16) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:59:16) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 20:59:36) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:59:36) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 20:59:36) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:00:01) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (3.4ms)
+Rendered elements/_galery_header (39.9ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 48ms (View: 45, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:00:01) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:00:01) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:00:22) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:00:22) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:00:22) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:00:29) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:00:29) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:00:29) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:02:50) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:02:51) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:02:51) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:02:58) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:02:59) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:02:59) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:03:16) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:03:17) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:03:17) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:03:55) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:03:56) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:03:56) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:04:37) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.7ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:04:37) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:04:37) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:05:28) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.2ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.6ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:05:28) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:05:28) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:05:52) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.3ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:05:52) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:05:52) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:06:58) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.6ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:06:58) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:06:58) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:07:42) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.7ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:07:42) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:07:42) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:08:23) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.6ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:08:23) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:08:23) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:10:14) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.6ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:10:14) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:10:14) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:10:31) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:10:31) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:10:31) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:10:42) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:10:42) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:10:42) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:11:37) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:11:37) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:11:38) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:12:13) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:12:13) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:12:13) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:12:20) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:12:20) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:12:20) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:12:43) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:12:43) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:12:43) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:13:00) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:13:00) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:13:01) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:16:19) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:16:19) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:16:19) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:17:42) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.7ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:17:42) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:17:42) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:18:30) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (40.9ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 53ms (View: 51, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:18:31) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:18:31) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:19:39) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:19:39) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.6ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:19:39) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:21:17) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.7ms)
+Rendered shared/_footer (0.1ms)
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:21:17) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:21:17) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:24:42) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.5ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (1.7ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (2.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:24:42) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:24:42) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:25:04) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.6ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:25:04) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:25:04) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:26:08) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.7ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:26:08) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:26:08) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:27:25) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.3ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:27:25) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:27:26) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:27:37) [GET]
+  Parameters: {"thumbs"=>"60"}
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery?thumbs=60]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:27:37) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:27:37) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:27:47) [GET]
+  Parameters: {"thumbs"=>"30"}
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery?thumbs=30]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:27:47) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:27:47) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:30:38) [GET]
+  Parameters: {"thumbs"=>"30"}
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (1.5ms)
+Rendered elements/_galery_header (5.2ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 14ms (View: 11, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery?thumbs=30]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:30:38) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:30:38) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (1.9ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:30:40) [GET]
+  Parameters: {"thumbs"=>"60"}
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.7ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 2) | 200 OK [http://blacklabel.dragonslayer.com/gallery?thumbs=60]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:30:41) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:30:41) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:31:29) [GET]
+  Parameters: {"thumbs"=>"60"}
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (1.4ms)
+Rendered elements/_galery_header (5.0ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery?thumbs=60]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:31:29) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:31:29) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:31:33) [GET]
+  Parameters: {"thumbs"=>"30"}
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.5ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery?thumbs=30]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:31:33) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:31:33) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:31:35) [GET]
+  Parameters: {"thumbs"=>"100"}
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery?thumbs=100]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:31:36) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:31:36) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:31:44) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 48ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:31:44) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:31:44) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing LoginController#show (for 172.16.142.1 at 2010-05-15 21:33:24) [GET]
+Rendering template within layouts/application
+Rendering login/show
+Rendered shared/_nav (0.1ms)
+Rendered elements/_login (0.2ms)
+Rendered shared/_header (0.5ms)
+Rendered shared/_footer (0.1ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:33:25) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:33:25) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:33:28) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:33:28) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:33:28) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:36:33) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.2ms)
+Rendered elements/_galery_header (1.6ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:36:34) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:36:34) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:37:15) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.5ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.3ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 14ms (View: 11, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:37:16) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:37:16) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:37:22) [GET]
+  Parameters: {"thumbs"=>"60"}
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.3ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery?thumbs=60]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:37:23) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:37:23) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:38:11) [GET]
+  Parameters: {"thumbs"=>"60"}
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.8ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.4ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery?thumbs=60]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:38:11) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:38:11) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:38:44) [GET]
+  Parameters: {"thumbs"=>"60"}
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.8ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.3ms)
+Rendered shared/_header (0.5ms)
+Rendered shared/_footer (0.1ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery?thumbs=60]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:38:44) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:38:44) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:39:11) [GET]
+  Parameters: {"thumbs"=>"60"}
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.9ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.3ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery?thumbs=60]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:39:11) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:39:11) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:39:47) [GET]
+  Parameters: {"thumbs"=>"60"}
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.2ms)
+Rendered elements/_galery_header (0.8ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.3ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery?thumbs=60]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:39:48) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:39:48) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:41:45) [GET]
+  Parameters: {"thumbs"=>"60"}
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.9ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_galery_header (0.6ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery?thumbs=60]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:41:45) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:41:46) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:42:49) [GET]
+  Parameters: {"thumbs"=>"60"}
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_gallery_header (0.8ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_gallery_footer (0.7ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 23ms (View: 21, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery?thumbs=60]
+  [4;36;1mSQL (0.7ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:42:49) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:42:49) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:43:33) [GET]
+  Parameters: {"thumbs"=>"60"}
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_gallery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered elements/_thumbnail_count (7.1ms)
+Rendered elements/_gallery_footer (47.8ms)
+Rendered shared/_header (0.5ms)
+Rendered shared/_footer (0.1ms)
+Completed in 56ms (View: 54, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery?thumbs=60]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:43:34) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:43:34) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:43:37) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_gallery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_gallery_footer (0.3ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:43:37) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:43:37) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:45:22) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_gallery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_gallery_footer (0.4ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:45:22) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:45:22) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:46:11) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_gallery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_gallery_footer (0.3ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:46:11) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:46:11) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:46:54) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_gallery_header (0.5ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_gallery_footer (0.3ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:46:54) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:46:54) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:47:42) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_gallery_header (0.6ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_gallery_footer (0.8ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:47:42) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:47:42) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:50:11) [GET]
+  Parameters: {"thumbs"=>"60"}
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_gallery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_gallery_footer (0.5ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery?thumbs=60]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:50:11) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:50:11) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:51:30) [GET]
+  Parameters: {"thumbs"=>"30"}
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_gallery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_gallery_footer (0.3ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery?thumbs=30]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:51:30) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:51:30) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:51:42) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_gallery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_gallery_footer (0.4ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:51:42) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:51:42) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (1.5ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing LoginController#show (for 172.16.142.1 at 2010-05-15 21:51:57) [GET]
+Rendering template within layouts/application
+Rendering login/show
+Rendered shared/_nav (0.2ms)
+Rendered elements/_login (0.2ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 5, DB: 2) | 200 OK [http://blacklabel.dragonslayer.com/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:51:58) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:51:58) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:52:00) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_gallery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_gallery_footer (0.3ms)
+Rendered shared/_header (0.7ms)
+Rendered shared/_footer (0.1ms)
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:52:01) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:52:01) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing LoginController#show (for 172.16.142.1 at 2010-05-15 21:52:09) [GET]
+Rendering template within layouts/application
+Rendering login/show
+Rendered shared/_nav (0.2ms)
+Rendered elements/_login (0.2ms)
+Rendered shared/_header (0.5ms)
+Rendered shared/_footer (0.1ms)
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:52:10) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:52:10) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing GalleryController#show (for 172.16.142.1 at 2010-05-15 21:52:12) [GET]
+Rendering template within layouts/application
+Rendering gallery/show
+Rendered elements/_refine_nav (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_gallery_header (0.4ms)
+Rendered elements/_thumbnail (0.1ms)
+Rendered elements/_thumbnail_count (0.1ms)
+Rendered elements/_gallery_footer (0.3ms)
+Rendered shared/_header (0.6ms)
+Rendered shared/_footer (0.1ms)
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://blacklabel.dragonslayer.com/gallery]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:52:12) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 172.16.142.1 at 2010-05-15 21:52:12) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/modal.js" with {:method=>:get}):
+  lib/internet_explorer_detector.rb:12:in `call'
+
+Rendering rescues/layout (not_found)

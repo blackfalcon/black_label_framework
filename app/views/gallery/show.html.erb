@@ -4,7 +4,7 @@
 
 <%= render :partial => 'elements/refine_nav' %>	
 <article>
-	<%= render :partial => 'elements/galery_header' %>
+	<%= render :partial => 'elements/gallery_header' %>
 	<% if params[:thumbs] == '100' %>
 		<ul class="thumb_container" id="thumb_container_100">
 			<%= render :partial => 'elements/thumbnail' %>
@@ -22,4 +22,5 @@
 			<%= render :partial => 'elements/thumbnail' %>
 		</ul>
 	<% end %>
+	<%= render :partial => 'elements/gallery_footer' %>
 </article>

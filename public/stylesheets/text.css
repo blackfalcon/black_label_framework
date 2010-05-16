@@ -26,9 +26,9 @@ header {
   header aside {
     font-size: 1.25em; }
 
-section header ul {
+section header ul, section footer ul {
   font-weight: normal; }
-  section header ul li {
+  section header ul li, section footer ul li {
     padding-right: 20px; }
 
 .link_box {

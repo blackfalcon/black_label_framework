@@ -7,12 +7,51 @@
 <ul class="thumbnail_form">
 	<li>Thumbnails per page</li>
 	<li>
+		<% if params[:thumbs] == '100' %>
 		<form name="thumbnail_form">
 			<dl>
 				<dd>
 					<select name="select" onchange="goto(this.form)">
-						<option value="">Choose</option>
 						<option value="/gallery">15</option>
+						<option value="/gallery?thumbs=30">30</option>
+						<option value="/gallery?thumbs=60">60</option>
+						<option value="/gallery?thumbs=100" selected="selected">100</option>
+					</select>
+				</dd>
+			</dl>
+		</form>
+		<% elsif params[:thumbs] == '60' %>
+		<form name="thumbnail_form">
+			<dl>
+				<dd>
+					<select name="select" onchange="goto(this.form)">
+						<option value="/gallery">15</option>
+						<option value="/gallery?thumbs=30">30</option>
+						<option value="/gallery?thumbs=60" selected="selected">60</option>
+						<option value="/gallery?thumbs=100">100</option>
+					</select>
+				</dd>
+			</dl>
+		</form>
+		<% elsif params[:thumbs] == '30' %>
+		<form name="thumbnail_form">
+			<dl>
+				<dd>
+					<select name="select" onchange="goto(this.form)">
+						<option value="/gallery">15</option>
+						<option value="/gallery?thumbs=30" selected="selected">30</option>
+						<option value="/gallery?thumbs=60">60</option>
+						<option value="/gallery?thumbs=100">100</option>
+					</select>
+				</dd>
+			</dl>
+		</form>
+		<% else %>
+		<form name="thumbnail_form">
+			<dl>
+				<dd>
+					<select name="select" onchange="goto(this.form)">
+						<option value="/gallery" selected="selected">15</option>
 						<option value="/gallery?thumbs=30">30</option>
 						<option value="/gallery?thumbs=60">60</option>
 						<option value="/gallery?thumbs=100">100</option>
@@ -20,5 +59,6 @@
 				</dd>
 			</dl>
 		</form>
+		<% end %>
 	</li>
 </ul>
