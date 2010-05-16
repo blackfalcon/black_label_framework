@@ -1,0 +1,35 @@
+body {
+  font-family: arial;
+  font-size: 0.75em;
+  color: #666666; }
+
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  margin-bottom: 1em; }
+
+a {
+  color: #339DFF;
+  text-decoration: none; }
+  a:hover {
+    text-decoration: underline; }
+
+header {
+  color: #fff; }
+  header article h3 {
+    font-size: 3em;
+    margin-top: 10px; }
+  header article a {
+    color: #fff; }
+    header article a:hover, header article a:active {
+      text-decoration: none; }
+  header aside {
+    font-size: 1.25em; }
+
+section header ul {
+  font-weight: normal; }
+  section header ul li {
+    padding-right: 20px; }
+
+.link_box {
+  cursor: pointer; }

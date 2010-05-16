@@ -1,0 +1,11 @@
+nav {
+  width: 140px;
+  padding-right: 20px;
+  clear: both; }
+
+article {
+  width: 540px; }
+
+aside {
+  float: right;
+  width: 240px; }

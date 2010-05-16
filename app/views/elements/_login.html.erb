@@ -1,0 +1,11 @@
+<h1>Please sign in</h1>
+<form>
+	<dl>
+		<div class="alert">Please provide a username and login</div>
+		<%= label_helper ({:id => 'username', :label => 'Username'}) %>
+		<%= form_text_field ({:id => 'username', :name => 'username', :title => 'Please enter your username' }) %>
+		<%= label_helper ({:id => 'password', :label => 'Password'}) %>
+		<%= login_password_field 'password' %>
+	</dl>
+	<%= button gallery_path, '', '', 'Sign in'  %>
+</form>

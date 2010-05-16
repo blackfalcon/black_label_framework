@@ -1,0 +1,54 @@
+<%= javascript_include_tag 'faux_ajax_form' %>
+
+
+<%# 
+	This for UI supports a faux JS that when the submit button is clicked, the form will hide, be replaced with the spinner and on time out will bring the form back.
+	See /public/javascripts/faux_ajax_form.js for more details on this functionality 
+%>
+<%#= see http://flowplayer.org/tools/demos/tooltip/form.html for tooltip API  %>
+
+
+<h1>New content to be localized</h1>
+
+<%#= id => toggle.div is needed for faux ajax  %>
+<div id="toggle_div">
+	
+	<%#= empty div is needed for tooltips UI  %>
+	<div class="tooltip"></div>
+	
+	<%#= :id => form_table used for tooltip UI %>
+	<form class="" id="form_table">
+		<%= required %>
+		
+		<%#= :id => inputs usd for tooltip UI  %>
+		<dl id="inputs">
+			<%= label_helper ({ :id => 'site', :required => 'required', :label => 'Site' })%>
+			<%= form_select_menu ({:id => 'site', :title => 'Please select the site', :options => ['Please select option ...', 'website.com','website.com','website.com', 'website.com']}) %>
+							
+			<%= label_helper ({ :id => 'context', :label => 'Context' })%>
+			<%= form_select_menu ({:id => 'context', :title => 'Please select context in which string is to appear', :disabled => 'disabled', :options => ['Please select option ...', 'Home', 'About us', 'Contact us', 'Privacy', 'Legal info', '---------' ,'Add new']}) %>
+			
+			<div style="display:none;" id="new_context_field">	
+				<%= label_helper ({ :id => 'new_context', :required => 'required', :label => 'New context' })%>
+				<%= form_text_field ({ :name => 'new_context', :title => 'Please enter new localization reference', :id => 'new_context' })%>
+			</div>
+			
+			<%= label_helper ({ :id => 'reference', :required => 'required', :label => 'Reference #' })%>
+			<%= form_text_field ({ :name => 'reference', :title => 'Please enter a PM reference number', :id => 'reference' })%>
+							
+			<%= label_helper({ :id => 'content', :required => 'required', :label => 'Content' })%>
+			<%= form_textarea_field ({ :name => 'content', :title => 'Please enter content to be localized', :id => 'content' })%>
+			
+			<%= label_helper ({:label => 'Key', :required => 'required', :id => 'key'}) %>
+			<%= form_text_field ({:name => 'key', :id => 'key', :title => 'Please use CamelCase phrases for new key generation'}) %>
+			
+			<%= label_helper({ :id => 'notes', :label => 'Notes' })%>
+			<%= form_textarea_field ({ :name => 'notes', :title => 'Enter notes as necessary', :id => 'notes' })%>
+		</dl>
+		<%= button_cancel '#', 'submit_link', '', 'Submit', dashboard_path %>
+	</form>
+</div>
+
+<%#= ajax spinner ui  %>
+<div class="hidden" style="" id="ajax_spinner"><%= image_tag("ajax-loader.gif") %></div>
+

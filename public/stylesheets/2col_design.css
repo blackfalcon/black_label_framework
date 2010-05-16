@@ -1,0 +1,11 @@
+nav {
+  visibility: hidden;
+  display: none; }
+
+section article {
+  width: 560px;
+  padding: 0px; }
+
+aside {
+  float: right;
+  width: 400px; }

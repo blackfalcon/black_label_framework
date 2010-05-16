@@ -1,0 +1,25 @@
+<%= stylesheet_link_tag 'fluid.css', :media => "screen, projection" %>
+<%= stylesheet_link_tag 'image_gallery.css', :media => "screen, projection" %>
+
+
+<%= render :partial => 'elements/refine_nav' %>	
+<article>
+	<%= render :partial => 'elements/galery_header' %>
+	<% if params[:thumbs] == '100' %>
+		<ul class="thumb_container" id="thumb_container_100">
+			<%= render :partial => 'elements/thumbnail' %>
+		</ul>
+	<% elsif params[:thumbs] == '60' %>
+		<ul class="thumb_container" id="thumb_container_60">
+			<%= render :partial => 'elements/thumbnail' %>
+		</ul>
+	<% elsif params[:thumbs] == '30' %>
+		<ul class="thumb_container" id="thumb_container_30">
+			<%= render :partial => 'elements/thumbnail' %>
+		</ul>
+	<% else %>
+		<ul class="thumb_container" id="thumb_container_15">
+			<%= render :partial => 'elements/thumbnail' %>
+		</ul>
+	<% end %>
+</article>

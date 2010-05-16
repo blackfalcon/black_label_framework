@@ -1,0 +1,5 @@
+header > div > aside {
+  display: inline; }
+header dl {
+  width: auto;
+  margin: 0px; }
